@@ -29,7 +29,7 @@ link… Path Lister gives you every format in one small window that follows your
 (the official installer includes `tkinter`).
 
 ```powershell
-git clone https://github.com/<your-user>/path_lister.git
+git clone https://github.com/urtaav/path-lister.git
 cd path_lister
 python install_context_menu.py
 ```
